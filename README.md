@@ -1,2 +1,2 @@
 # POO_emulador
-Proyecto final de la materia POO de la facultad de ciencias hidricas de la universidad nacional del litoral
+Proyecto final de la materia POO de la Facultad de Ciencias Hidricas de la Nniversidad Nacional del Litoral
